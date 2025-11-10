@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello Testing</h1>
-        <a href='/.auth/login/aad'>Login</a>
+       
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
